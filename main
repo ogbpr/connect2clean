@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Initial commit - Connect2Clean"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/connect2clean.git
+git remote add origin https://github.com/ogbpr/connect2clean.git
 git push -u origin main
